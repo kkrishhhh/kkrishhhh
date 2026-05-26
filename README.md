@@ -1,142 +1,181 @@
-<h1 align="center">hey, i'm krishna 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=6E57E0&center=true&vCenter=true&width=600&lines=AI+%E2%80%A2+Cloud+%E2%80%A2+Full-Stack;Building+things+that+actually+ship;Always+learning+%26+building+%E2%9A%A1" />
-</p>
-
-<p align="center">
-  building across <b>AI agents</b>, <b>cloud infrastructure</b>, and <b>full-stack development</b> ⚡
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/krishhhhh">LinkedIn</a> •
-  <a href="https://x.com/krishnaVthakur">Twitter</a> •
-  <a href="https://www.instagram.com/kkkrishhhhhh">Instagram</a> •
-  <a href="https://github.com/kkrishhhh">GitHub</a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-08ca681c-62c2-4ec8-a82d-4e5ed2f0a146.gif" width="700">
-</p>
-
----
-
-## ✨ about me
-
-hey! i'm krishna — an engineering student (E&TC @ PICT) who loves building things that actually ship.
-
-i'm drawn to the intersection of **ai agents, cloud systems, and product engineering**, and i get a kick out of taking ideas from *"this would be useful"* → *actual working product*.
-
-lately i've been going deep on **multi-agent orchestration, RAG pipelines, agentic workflows, and scalable cloud infrastructure** — and i pick up most things by just building.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-5f75-4f5d-8f7d-5ec7b6d8b2d1.gif" width="450">
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-bc89-0b4c1419ef43.gif" width="280">
-</p>
-
-## 🛠️ tech stack
-
 <div align="center">
 
-### languages
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Krishna%20Thakur&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Agents%20·%20Cloud%20Infrastructure%20·%20Full-Stack%20Engineering&descAlignY=62&descSize=17&descColor=c9b8ff" width="100%" />
 
-![Python](https://img.shields.io/badge/Python-b8d8ff?style=flat-square&logo=python&logoColor=2d3e50)
-![TypeScript](https://img.shields.io/badge/TypeScript-c9d7ff?style=flat-square&logo=typescript&logoColor=2d3e50)
-![JavaScript](https://img.shields.io/badge/JavaScript-d9d0ff?style=flat-square&logo=javascript&logoColor=2d3e50)
-![Go](https://img.shields.io/badge/Go-e6cfff?style=flat-square&logo=go&logoColor=2d3e50)
-![C++](https://img.shields.io/badge/C++-f2d0f7?style=flat-square&logo=cplusplus&logoColor=2d3e50)
-![Java](https://img.shields.io/badge/Java-f8d4e8?style=flat-square&logo=openjdk&logoColor=2d3e50)
-![Bash](https://img.shields.io/badge/Bash-b8d8ff?style=flat-square&logo=gnu-bash&logoColor=2d3e50)
+<br/>
 
-### frontend & backend
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+AI+agents+that+actually+ship+%F0%9F%A4%96;Multi-agent+orchestration+%C3%97+LangGraph;Cloud+infra+on+AWS+%26+Azure+%E2%98%81%EF%B8%8F;Full-stack+from+idea+%E2%86%92+deployed+%E2%9A%A1" />
 
-![Next.js](https://img.shields.io/badge/Next.js-c9d7ff?style=flat-square&logo=next.js&logoColor=2d3e50)
-![React](https://img.shields.io/badge/React-d9d0ff?style=flat-square&logo=react&logoColor=2d3e50)
-![FastAPI](https://img.shields.io/badge/FastAPI-e6cfff?style=flat-square&logo=fastapi&logoColor=2d3e50)
-![Node.js](https://img.shields.io/badge/Node.js-f2d0f7?style=flat-square&logo=nodedotjs&logoColor=2d3e50)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f8d4e8?style=flat-square&logo=tailwindcss&logoColor=2d3e50)
-![Flask](https://img.shields.io/badge/Flask-b8d8ff?style=flat-square&logo=flask&logoColor=2d3e50)
+<br/><br/>
 
-### ai & agents
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishhhhh)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/krishnaVthakur)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkkrishhhhhh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishhhh.work@gmail.com)
 
-![LangGraph](https://img.shields.io/badge/LangGraph-c9d7ff?style=flat-square&logoColor=2d3e50)
-![RAG](https://img.shields.io/badge/RAG-d9d0ff?style=flat-square&logoColor=2d3e50)
-![LLMs](https://img.shields.io/badge/LLMs-e6cfff?style=flat-square&logoColor=2d3e50)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-f2d0f7?style=flat-square&logoColor=2d3e50)
-![Pydantic](https://img.shields.io/badge/Pydantic-f8d4e8?style=flat-square&logo=pydantic&logoColor=2d3e50)
+<br/>
 
-### cloud & infra
-
-![AWS](https://img.shields.io/badge/AWS-b8d8ff?style=flat-square&logo=amazon-aws&logoColor=2d3e50)
-![Azure](https://img.shields.io/badge/Azure-c9d7ff?style=flat-square&logo=microsoftazure&logoColor=2d3e50)
-![Docker](https://img.shields.io/badge/Docker-d9d0ff?style=flat-square&logo=docker&logoColor=2d3e50)
-![Redis](https://img.shields.io/badge/Redis-e6cfff?style=flat-square&logo=redis&logoColor=2d3e50)
-![Git](https://img.shields.io/badge/Git-f2d0f7?style=flat-square&logo=git&logoColor=2d3e50)
-
-### databases & tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b8d8ff?style=flat-square&logo=postgresql&logoColor=2d3e50)
-![MongoDB](https://img.shields.io/badge/MongoDB-c9d7ff?style=flat-square&logo=mongodb&logoColor=2d3e50)
-![MySQL](https://img.shields.io/badge/MySQL-d9d0ff?style=flat-square&logo=mysql&logoColor=2d3e50)
-![Prisma](https://img.shields.io/badge/Prisma-e6cfff?style=flat-square&logo=prisma&logoColor=2d3e50)
-![Supabase](https://img.shields.io/badge/Supabase-f2d0f7?style=flat-square&logo=supabase&logoColor=2d3e50)
-![Figma](https://img.shields.io/badge/Figma-f8d4e8?style=flat-square&logo=figma&logoColor=2d3e50)
+![Profile Views](https://komarev.com/ghpvc/?username=kkrishhhh&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e8c-0f2d-4dd5-b6c4-78dcea430fb5.gif" width="250">
-</p>
+<br/>
 
 ---
 
-## 🚀 featured projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%" />
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🪪 **Vantage AI** | Multi-agent video KYC & intelligent loan onboarding — five specialized agents on an A2A event bus with RBI V-CIP compliance, biometric matching, and full audit trails | `LangGraph` `FastAPI` `AWS ECS` `Next.js` `RAG` |
-| 📄 **AI Resume Screener** | LLM-powered resume parser with ATS scoring, skills gap analysis, career roadmap generation, and a conversational "chat with your resume" interface | `Next.js` `LLM API` `Redis` `TypeScript` |
+## 〔 01 〕about me
 
----
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-5f75-4f5d-8f7d-5ec7b6d8b2d1.gif" width="340" />
 
-## 🌱 currently exploring
+```yaml
+name:       Krishna Thakur
+college:    PICT, Pune (E&TC Engineering, 2023–2027)
+focus:      AI Agents · Cloud · Full-Stack
+status:     Always building something
+athlete:    National-level Karate 🥋
+```
 
-- multi-agent orchestration & agentic workflows
-- cloud infrastructure at scale (AWS, Azure)
-- system design & distributed systems
-- building products that go from 0 → shipped
+Hey — I'm an engineering student genuinely obsessed with
+building things that go from **zero to shipped**.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216658116-3d84f50d-1f3e-4c6d-97f2-4c4d6dce4d5b.gif" width="280">
-</p>
+I've spent time as an **AI/ML intern** and a **full-stack
+intern**, working on real products with real users. If I
+find a problem interesting, I have a side project for it
+within the week.
 
----
+**Right now I'm deep in:**
+- 🤖 Multi-agent systems & LangGraph orchestration
+- ☁️ Scaling services on AWS & Azure
+- 🏗️ System design & distributed systems
+- 📦 Shipping products people actually use
 
-## ☕ outside of code
+**When I'm not coding:**
+- 🥋 Karate (national level) & Judo (zonal level)
+- 🎪 Ops Head @ InC — PICT's flagship fest
+- 🎸 Music, long walks, random rabbit holes
 
-outside of tech, you'll probably find me:
-- competing in karate or judo 🥋 (national-level athlete, no big deal)
-- running large-scale events as ops head @ InC, PICT 🎪
-- obsessing over system design rabbit holes
-- turning everyday frustrations into project ideas ⚡
+<br clear="right" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%" />
 
-## 📊 github stats
+## 〔 02 〕tech stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkrishhhh&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=kkrishhhh&theme=tokyonight&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrishhhh&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<div align="center">
 
----
+**languages**
 
-<p align="center">
+[![Skills](https://skillicons.dev/icons?i=py,ts,js,go,cpp,java,bash&theme=dark&perline=7)](https://skillicons.dev)
+
+<br/>
+
+**frontend & backend**
+
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,tailwind,flask,express&theme=dark&perline=7)](https://skillicons.dev)
+
+<br/>
+
+**cloud & infra**
+
+[![Skills](https://skillicons.dev/icons?i=aws,azure,docker,linux&theme=dark&perline=7)](https://skillicons.dev)
+
+<br/>
+
+**databases & tools**
+
+[![Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,figma,git,github&theme=dark&perline=8)](https://skillicons.dev)
+
+<br/>
+
+**ai & agents**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-A78BFA?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-4C1D95?style=for-the-badge&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-3B0764?style=for-the-badge&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%" />
+
+## 〔 03 〕featured projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪪 Vantage AI</h3>
+      <p>
+        Multi-agent video KYC & intelligent loan onboarding.<br/><br/>
+        Five specialized agents (Interview, KYC, Document, Fraud, Decision) coordinated via an <b>A2A event bus</b> — no returning to an orchestrator, fully decoupled and auditable.<br/><br/>
+        <b>RBI V-CIP compliant</b> with RAG over KYC Master Direction 2016, SHA-256 PII hashing, biometric selfie matching, liveness detection, and DPDPA audit trails.<br/><br/>
+        Deployed on <b>AWS ECS Fargate</b> with CloudFront edge delivery, S3 + AES-256 storage, and ElastiCache Redis.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-A78BFA?style=flat-square" />
+        <img src="https://img.shields.io/badge/Llama%203.3-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+        <img src="https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square" />
+      </p>
+      <sub>🏆 Built for Poonawalla Fincorp Hackathon</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 AI Resume Screener</h3>
+      <p>
+        LLM-powered resume intelligence platform.<br/><br/>
+        Parses PDFs in <b>sub-2s</b> into structured JSON, then generates ATS compatibility scores, skills gap analysis, and personalized career roadmaps.<br/><br/>
+        Features a <b>"Chat with Resume"</b> conversational interface for natural language querying over parsed data — same LLM pipeline, zero extra overhead.<br/><br/>
+        Built with <b>Next.js 15 App Router</b>, React Server Components, Reaviz (D3.js) analytics dashboards, and Upstash Redis for rate limiting.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Llama%203%2070B-A78BFA?style=flat-square" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%" />
+
+## 〔 04 〕github stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kkrishhhh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrishhhh&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&count_private=true" height="170" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=kkrishhhh&hide_border=true&background=0d1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kkrishhhh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%" />
+
+## 〔 05 〕contribution graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kkrishhhh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&area_color=A78BFA" width="100%" />
+
+<br/>
+
+<div align="center">
   <i>building, shipping, and figuring it out — one agent at a time ⚡</i>
-</p>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" />
+</div>
