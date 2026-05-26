@@ -1,30 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:312e81,100:0a0a0f&height=240&section=header&text=Krishna%20Thakur&fontSize=56&fontColor=e0d7ff&animation=fadeIn&fontAlignY=40&desc=AI%20Agents%20·%20Cloud%20Infrastructure%20·%20Full-Stack%20Engineering&descAlignY=62&descSize=16&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=240&section=header&text=Krishna%20Thakur&fontSize=58&fontColor=e0d7ff&animation=fadeIn&fontAlignY=40&desc=AI%20Agents%20·%20Cloud%20Infrastructure%20·%20Full-Stack%20Engineering&descAlignY=62&descSize=16&descColor=9d8fff" width="100%"/>
 
-</div>
-
-<div align="center">
-
-```bash
-┌──(krishna㉿github)-[~/profile]
-└─$ whoami
-
-AI Engineer • Full-Stack Developer • Cloud Builder
-
-🎓 B.E. Electronics & Telecom @ PICT Pune
-🤖 AI/ML Intern @ Prodcrew
-⚡ Full-Stack Intern @ MarkX
-🥋 National-Level Karate Athlete
-
-building intelligent systems that scale
-```
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/krishhhhh">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -38,24 +16,66 @@ building intelligent systems that scale
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kkrishhhh&style=for-the-badge&color=818CF8&label=PROFILE+VIEWS"/>
-
 </div>
 
----
-
-# `> currently building`
-
-- 🤖 Multi-agent AI workflows & orchestration systems
-- ☁️ Cloud-native AI infrastructure on AWS & Azure
-- 📄 RAG pipelines over compliance & enterprise data
-- ⚡ Scalable full-stack AI products
+<br/>
 
 ---
 
-# `> tech stack`
+<br/>
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+## `> whoami`
+
+```yaml
+name:     Krishna Thakur
+degree:   B.E. Electronics & Telecom — PICT, Pune (2023–2027)
+
+roles:
+  - AI/ML Intern @ Prodcrew
+  - Full-Stack Intern @ MarkX
+  - Ops Head @ InC (PICT's flagship fest)
+
+athlete:  National Karate 🥋 · Zonal Judo · Zonal Handball
+
+focus:
+  - Multi-agent AI systems
+  - Cloud Infrastructure
+  - Product Engineering
+  - Distributed Systems
+
+motto:    "Idea → Built → Shipped"
+```
+
+&emsp;🤖 &nbsp;Building intelligent multi-agent systems with LangGraph & event-driven workflows  
+&emsp;☁️ &nbsp;Scaling AI infrastructure on AWS ECS Fargate, Redis & CloudFront  
+&emsp;🔍 &nbsp;Developing RAG pipelines over enterprise & compliance knowledge bases  
+&emsp;🏗️ &nbsp;Obsessed with system design, distributed systems & performance engineering  
+&emsp;⚡ &nbsp;If I find a problem interesting — there's probably a side project within the week
+
+<br clear="right"/>
+
+<br/>
+
+---
+
+<br/>
+
+## `> currently building`
+
+- 🤖 AI agent orchestration systems
+- ☁️ Cloud-native AI infrastructure
+- 📄 Enterprise RAG pipelines
+- ⚡ Full-stack AI products
+
+<br/>
+
+---
+
+<br/>
+
+## `> tech stack`
 
 <div align="center">
 
@@ -72,9 +92,13 @@ building intelligent systems that scale
 
 </div>
 
+<br/>
+
 ---
 
-# `> featured projects`
+<br/>
+
+## `> featured projects`
 
 <table>
 <tr>
@@ -114,19 +138,13 @@ LLM-powered ATS analysis & resume intelligence platform
 </tr>
 </table>
 
+<br/>
+
 ---
 
-# `> github analytics`
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kkrishhhh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrishhhh&layout=compact&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=c9d1d9"/>
-
-</div>
-
 <br/>
+
+## `> contribution activity`
 
 <div align="center">
 
@@ -134,9 +152,13 @@ LLM-powered ATS analysis & resume intelligence platform
 
 </div>
 
+<br/>
+
 ---
 
-# `> contribution graph`
+<br/>
+
+## `> contributions --snake`
 
 <div align="center">
 
@@ -144,7 +166,11 @@ LLM-powered ATS analysis & resume intelligence platform
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
@@ -166,6 +192,6 @@ LLM-powered ATS analysis & resume intelligence platform
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:312e81,100:0a0a0f&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=120&section=footer"/>
 
 </div>
