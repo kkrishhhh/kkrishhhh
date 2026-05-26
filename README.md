@@ -4,18 +4,9 @@
 
 <br/>
 
-```bash
-> initializing krishna.exe ...
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2200&color=818CF8&center=true&vCenter=true&width=850&lines=building+intelligent+systems+that+scale;multi-agent+ai+%C2%B7+cloud+infrastructure+%C2%B7+product+engineering;designing+systems+for+real-world+impact;from+ideas+to+production-grade+systems" />
 
-[AI Systems]     loaded
-[Cloud Infra]    loaded
-[Full Stack]     loaded
-[Discipline]     loaded
-
-status: building things that matter ⚡
-```
-
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/krishhhhh">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -186,7 +177,6 @@ LLM-powered ATS analysis & resume intelligence platform
 - 🥋 National-level Karate athlete with competitive experience in Judo & Handball  
 - 🏃 Long runs, intense training sessions & pushing physical limits  
 - 🎧 Music, deep focus nights & random 2AM side project ideas  
-- ☕ Coffee + system design + building things for fun  
 - 🎯 Love high-pressure environments, hackathons & leadership roles  
 - 🧠 Curious about psychology, performance, discipline & how people think  
 - ✈️ Want to build products that genuinely impact millions of people someday
