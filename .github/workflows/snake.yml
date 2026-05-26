@@ -11,21 +11,25 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
+        uses: mishmanners/MishManners-GitHub-Actions@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: kkrishhhh
+          snake_head_color: "#818CF8"
+          background_color: "#0d1117"
+          dot_color_empty: "#161b22"
+          dot_color_1: "#312e81"
+          dot_color_2: "#4338ca"
+          dot_color_3: "#6366f1"
+          dot_color_4: "#818cf8"
 
-      - name: Push to output branch
+      - name: Push output
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
