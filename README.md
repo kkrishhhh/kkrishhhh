@@ -26,11 +26,9 @@
 
 ## `> whoami`
 
-<br/>
-
-<div align="right">
-  <img width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-</div>
+<table>
+<tr>
+<td width="68%" valign="top">
 
 ```yaml
 name:     Krishna Thakur
@@ -52,13 +50,21 @@ focus:
 motto:    "Idea → Built → Shipped"
 ```
 
+</td>
+
+<td width="32%" align="right">
+
+<img width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+</td>
+</tr>
+</table>
+
 &emsp;🤖 &nbsp;Building intelligent multi-agent systems with LangGraph & event-driven workflows  
 &emsp;☁️ &nbsp;Scaling AI infrastructure on AWS ECS Fargate, Redis & CloudFront  
 &emsp;🔍 &nbsp;Developing RAG pipelines over enterprise & compliance knowledge bases  
 &emsp;🏗️ &nbsp;Obsessed with system design, distributed systems & performance engineering  
 &emsp;⚡ &nbsp;If I find a problem interesting — there's probably a side project within the week
-
-<br clear="right"/>
 
 <br/>
 
