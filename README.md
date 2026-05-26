@@ -209,7 +209,9 @@ Parses PDFs to structured JSON in **sub-2 seconds** via Llama 3 70B — then gen
 
 ## `> contributions --snake`
 
-> **Setup required:** Create `.github/workflows/snake.yml` in this repo to generate the snake animation. See [Platane/snk](https://github.com/Platane/snk) for the workflow file — takes 2 minutes to set up.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kkrishhhh/kkrishhhh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <picture>
