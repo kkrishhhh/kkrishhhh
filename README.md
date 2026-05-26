@@ -24,8 +24,6 @@
 
 <br/>
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 ## `> whoami`
 
 <br/>
@@ -150,11 +148,11 @@ LLM-powered ATS analysis & resume intelligence platform
 
 <br/>
 
-## `> contribution activity`
+## `> contributions --snake`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kkrishhhh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818CF8&line=6366F1&point=c4b5fd&area=true"/>
+<img src="https://raw.githubusercontent.com/kkrishhhh/kkrishhhh/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -164,13 +162,15 @@ LLM-powered ATS analysis & resume intelligence platform
 
 <br/>
 
-## `> contributions --snake`
+## `> outside of code 🌌`
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kkrishhhh/kkrishhhh/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
+- 🥋 National-level Karate athlete with competitive experience in Judo & Handball  
+- 🏃 Long runs, intense training sessions & pushing physical limits  
+- 🎧 Music, deep focus nights & random 2AM side project ideas  
+- ☕ Coffee + system design + building things for fun  
+- 🎯 Love high-pressure environments, hackathons & leadership roles  
+- 🧠 Curious about psychology, performance, discipline & how people think  
+- ✈️ Want to build products that genuinely impact millions of people someday
 
 <br/>
 
