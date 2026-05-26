@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=240&section=header&text=Krishna%20Thakur&fontSize=58&fontColor=e0d7ff&animation=fadeIn&fontAlignY=40&desc=AI%20Agents%20·%20Cloud%20Infrastructure%20·%20Full-Stack%20Engineering&descAlignY=62&descSize=16&descColor=9d8fff" width="100%"/>
 
-<div align="center">
+<br/>
 
 ```bash
 > initializing krishna.exe ...
@@ -13,6 +13,9 @@
 [Discipline]     loaded
 
 status: building things that matter ⚡
+```
+
+<br/>
 
 <a href="https://www.linkedin.com/in/krishhhhh">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -183,6 +186,7 @@ LLM-powered ATS analysis & resume intelligence platform
 - 🥋 National-level Karate athlete with competitive experience in Judo & Handball  
 - 🏃 Long runs, intense training sessions & pushing physical limits  
 - 🎧 Music, deep focus nights & random 2AM side project ideas  
+- ☕ Coffee + system design + building things for fun  
 - 🎯 Love high-pressure environments, hackathons & leadership roles  
 - 🧠 Curious about psychology, performance, discipline & how people think  
 - ✈️ Want to build products that genuinely impact millions of people someday
