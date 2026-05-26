@@ -173,7 +173,6 @@ LLM-powered ATS analysis & resume intelligence platform
 - 🥋 National-level Karate athlete with competitive experience in Judo & Handball  
 - 🏃 Long runs, intense training sessions & pushing physical limits  
 - 🎧 Music, deep focus nights & random 2AM side project ideas  
-- ☕ Coffee + system design + building things for fun  
 - 🎯 Love high-pressure environments, hackathons & leadership roles  
 - 🧠 Curious about psychology, performance, discipline & how people think  
 - ✈️ Want to build products that genuinely impact millions of people someday
