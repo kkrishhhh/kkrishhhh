@@ -4,13 +4,15 @@
 
 <div align="center">
 
-```text
-AI Systems • Cloud Infrastructure • Full-Stack Engineering
+```bash
+> initializing krishna.exe ...
 
-building products where intelligence meets scale
-```
+[AI Systems]     loaded
+[Cloud Infra]    loaded
+[Full Stack]     loaded
+[Discipline]     loaded
 
-</div>
+status: building things that matter ⚡
 
 <a href="https://www.linkedin.com/in/krishhhhh">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
